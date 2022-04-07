@@ -9,7 +9,7 @@ ice=discord.Client(intents=intents)
 
 ###########CONFIGS############
 
-TOKEN = "ODg5NTI0OTA1NDU0OTkzNDA4.YUigoA.i3sBh0B7igRY5kgPdLalfKXu7As"
+TOKEN = "Your Bot Token"
 Guild = Your Guild Id
 Welcome_Channel = Your Channel Id
 
